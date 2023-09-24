@@ -61,12 +61,12 @@ export const info = {
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://linkedin.com/in/mubashir-yasin",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://twitter.com/",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
