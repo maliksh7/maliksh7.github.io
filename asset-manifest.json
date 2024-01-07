@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/maliksh7.github.io/static/css/main.db3d1917.css",
-    "main.js": "/maliksh7.github.io/static/js/main.235d8cd5.js",
-    "static/media/mock2.png": "/maliksh7.github.io/static/media/mock2.f02f20bf3997a803b0ed.png",
-    "index.html": "/maliksh7.github.io/index.html",
-    "main.db3d1917.css.map": "/maliksh7.github.io/static/css/main.db3d1917.css.map",
-    "main.235d8cd5.js.map": "/maliksh7.github.io/static/js/main.235d8cd5.js.map"
+    "main.css": "/mhassan/static/css/main.db3d1917.css",
+    "main.js": "/mhassan/static/js/main.d2e2cf85.js",
+    "static/media/mock2.png": "/mhassan/static/media/mock2.f02f20bf3997a803b0ed.png",
+    "index.html": "/mhassan/index.html",
+    "main.db3d1917.css.map": "/mhassan/static/css/main.db3d1917.css.map",
+    "main.d2e2cf85.js.map": "/mhassan/static/js/main.d2e2cf85.js.map"
   },
   "entrypoints": [
     "static/css/main.db3d1917.css",
-    "static/js/main.235d8cd5.js"
+    "static/js/main.d2e2cf85.js"
   ]
 }
