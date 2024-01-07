@@ -1,8 +1,8 @@
+import { Box } from "@mui/material";
 import React from 'react';
+import { info } from "../../info/Info";
 import Style from './About.module.scss';
 import Terminal from "./Terminal";
-import {Box} from "@mui/material";
-import {info} from "../../info/Info";
 
 
 export default function About() {
@@ -11,8 +11,8 @@ export default function About() {
     function aboutMeText() {
         return <>
             <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cat
-                about{firstName} </p>
-            <p><span style={{color: info.baseColor}}>about{firstName} <span
+                about {firstName} </p>
+            <p><span style={{color: info.baseColor}}>about {firstName} <span
                 className={Style.green}>(main)</span> $ </span>
                 {info.bio}
             </p>

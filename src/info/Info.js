@@ -1,5 +1,5 @@
-import self from "../img/self.png"
-import mock2 from "../img/mock2.png"
+import mock2 from "../img/mock2.png";
+import self from "../img/self1.png";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -19,10 +19,10 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "Mubashir",
-    lastName: "Yasin",
-    initials: 'MY', // the example uses first and last, but feel free to use three or more if you like.
-    position: "a DevOps Engineer",
+    firstName: "Muhammad Saad",
+    lastName: "Hassan",
+    initials: 'SH7', // the example uses first and last, but feel free to use three or more if you like.
+    position: "a Software Engineer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -33,40 +33,40 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the PK'
+            text: 'based in the Germany'
         },
         {
             emoji: "💼",
-            text: "DevOps Engineer at Eon"
+            text: "Master Student at Hochschule Hof"
         },
         {
             emoji: "📧",
-            text: "mubashir1998@gmail.com"
+            text: "awansaadhassan@gmail.com"
         }
     ],
     socials: [
         {
-            link: "https://www.facebook.com/mubashir.yasin.39/",
+            link: "https://www.facebook.com/maliksaadh1/",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://www.instagram.com/m_fused/",
+            link: "https://www.instagram.com/_maliksh7/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com/Mfused07",
+            link: "https://github.com/maliksh7/",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com/in/mubashir-yasin",
+            link: "https://linkedin.com/in/muhsaadhassan/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com/",
+            link: "https://twitter.com/awansaadhassan1",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -74,7 +74,7 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! 👋 I'm Mubashir. 💼 I'm an AWS / DevOps Engineer 🌐 working for Eon Health. 🏥 I studied CompSci 🖥️ at Fast NUCES 🎓, and I enjoy reading blogs 📚 and playing online games 🎮 in my free time! 😄",
+    bio: "Hello! 👋 I'm Saad. 💼 I'm an Software / DevOps Engineer 🌐 doing Master at Hochschule Hof. 🏥 I studied CompSci 🖥️ at Fast NUCES 🎓, and I enjoy reading blogs 📚 and playing online games 🎮 in my free time! 😄",
     skills:
     {
         proficientWith: ['aws cloud', 'docker swarm', 'git', 'kubernetes', 'terraform', 'python', 'nodejs', 'linux', 'bash', 'jenkins', 'Travis CI', 'ansible', 'checkmk', 'elk', 'octopus deploy'],

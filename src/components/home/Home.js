@@ -1,11 +1,11 @@
-import React from 'react';
-import Style from './Home.module.scss';
-import me from '../../img/juice.png';
+import { Box } from "@mui/material";
 import classNames from 'classnames';
+import React from 'react';
+import me from '../../img/self1.png';
+import { info } from "../../info/Info";
 import EmojiBullet from "./EmojiBullet";
+import Style from './Home.module.scss';
 import SocialIcon from "./SocialIcon";
-import {Box} from "@mui/material";
-import {info} from "../../info/Info";
 
 export default function Home() {
 
