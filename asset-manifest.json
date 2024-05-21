@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/mhassan/static/css/main.bf60a6bc.css",
-    "main.js": "/mhassan/static/js/main.62e622d4.js",
+    "main.js": "/mhassan/static/js/main.a3fef12f.js",
     "static/media/self1.png": "/mhassan/static/media/self1.604398d1154b66cb2173.png",
     "static/media/mock2.png": "/mhassan/static/media/mock2.f02f20bf3997a803b0ed.png",
+    "static/media/DeepMAD.png": "/mhassan/static/media/DeepMAD.691f76c47f944438e2bc.png",
+    "static/media/Serverless-Flask-Application.png": "/mhassan/static/media/Serverless-Flask-Application.a8d8ec2a56f8880a8477.png",
+    "static/media/ads.png": "/mhassan/static/media/ads.db4bc6ef69ace623f17e.png",
+    "static/media/whms.png": "/mhassan/static/media/whms.15e73fc86b9abd71ad87.png",
+    "static/media/project-proshop.png": "/mhassan/static/media/project-proshop.270f4acbc6233a864dd8.png",
+    "static/media/ft.png": "/mhassan/static/media/ft.1f6aaf048a305910512f.png",
     "index.html": "/mhassan/index.html",
     "main.bf60a6bc.css.map": "/mhassan/static/css/main.bf60a6bc.css.map",
-    "main.62e622d4.js.map": "/mhassan/static/js/main.62e622d4.js.map"
+    "main.a3fef12f.js.map": "/mhassan/static/js/main.a3fef12f.js.map"
   },
   "entrypoints": [
     "static/css/main.bf60a6bc.css",
-    "static/js/main.62e622d4.js"
+    "static/js/main.a3fef12f.js"
   ]
 }
