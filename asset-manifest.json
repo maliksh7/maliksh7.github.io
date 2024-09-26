@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mhassan/static/css/main.bf60a6bc.css",
-    "main.js": "/mhassan/static/js/main.a3fef12f.js",
+    "main.css": "/mhassan/static/css/main.43f3d209.css",
+    "main.js": "/mhassan/static/js/main.848d6e22.js",
     "static/media/self1.png": "/mhassan/static/media/self1.604398d1154b66cb2173.png",
     "static/media/mock2.png": "/mhassan/static/media/mock2.f02f20bf3997a803b0ed.png",
     "static/media/DeepMAD.png": "/mhassan/static/media/DeepMAD.691f76c47f944438e2bc.png",
@@ -11,11 +11,11 @@
     "static/media/project-proshop.png": "/mhassan/static/media/project-proshop.270f4acbc6233a864dd8.png",
     "static/media/ft.png": "/mhassan/static/media/ft.1f6aaf048a305910512f.png",
     "index.html": "/mhassan/index.html",
-    "main.bf60a6bc.css.map": "/mhassan/static/css/main.bf60a6bc.css.map",
-    "main.a3fef12f.js.map": "/mhassan/static/js/main.a3fef12f.js.map"
+    "main.43f3d209.css.map": "/mhassan/static/css/main.43f3d209.css.map",
+    "main.848d6e22.js.map": "/mhassan/static/js/main.848d6e22.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf60a6bc.css",
-    "static/js/main.a3fef12f.js"
+    "static/css/main.43f3d209.css",
+    "static/js/main.848d6e22.js"
   ]
 }
